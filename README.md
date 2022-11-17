@@ -4,7 +4,7 @@ Medical imaging analysis papers and codes in 2022 computer visio conferences.
 
 ## 2022 CVPR
 
-1.[Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis](https://arxiv.org/pdf/2111.14791.pdf)
+1.[Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Self-Supervised_Pre-Training_of_Swin_Transformers_for_3D_Medical_Image_Analysis_CVPR_2022_paper.pdf)
 [code](https://monai.io/research/swin-unetr)
 
 2.[ACPL: Anti-Curriculum Pseudo-Labelling for Semi-Supervised Medical Image Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_ACPL_Anti-Curriculum_Pseudo-Labelling_for_Semi-Supervised_Medical_Image_Classification_CVPR_2022_paper.pdf)
