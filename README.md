@@ -21,6 +21,19 @@ Medical imaging analysis papers and codes in 2022 computer visio conferences.
 
 ## 2022 ECCV
 
+1.[Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation]()
+
+2.[Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation]()
+
+3.[ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images]()
+
+4.[Graph Neural Network for Cell Tracking in Microscopy Videos]()
+
+5.[Generalized Brain Image Synthesis with Transferable Convolutional Sparse Coding Networks]()
+
+6.[Self-Supervised Pretraining
+for 2D Medical Image Segmentation](https://github.com/kaland313/SSL-MedSeg)
+
 ## 2022 NeurIPS
 
 1.[MetaTeacher: Coordinating Multi-Model Domain Adaptation for Medical Image Classification](https://neurips.cc/virtual/2022/poster/54461)
