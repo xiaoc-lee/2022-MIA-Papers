@@ -21,19 +21,31 @@ Medical imaging analysis papers and codes in 2022 computer visio conferences.
 
 ## 2022 ECCV
 
-1.[Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation]()
+1.[Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation](https://arxiv.org/abs/2203.06338)
+[code](https://github.com/guopengf/Auto-FedRL)
 
-2.[Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation]()
+2.[Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation](https://arxiv.org/abs/2206.06575)
+[code](https://github.com/Wenxuan-1119/Med-DANet)
 
-3.[ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images]()
+3.[ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images](https://arxiv.org/abs/2207.06733)
+[code](https://github.com/Jiawei-Yang/ConCL)
 
-4.[Graph Neural Network for Cell Tracking in Microscopy Videos]()
+4.[Graph Neural Network for Cell Tracking in Microscopy Videos](https://www.springerprofessional.de/graph-neural-network-for-cell-tracking-in-microscopy-videos/23632850)
+[code](https://github.com/talbenha/cell-tracker-gnn)
 
 5.[Generalized Brain Image Synthesis with Transferable Convolutional Sparse Coding Networks]()
 
 6.[Self-Supervised Pretraining
 for 2D Medical Image Segmentation](https://arxiv.org/pdf/2209.00314.pdf)
 [code](https://github.com/kaland313/SSL-MedSeg)
+
+7.[Learning Topological Interactions for Multi-Class
+Medical Image Segmentation](https://arxiv.org/pdf/2207.09654.pdf)
+[code](https://github.com/TopoXLab/TopoInteraction)
+
+8.[Personalizing Federated Medical Image
+Segmentation via Local Calibration](https://arxiv.org/pdf/2207.04655.pdf)
+[code](https://github.com/jcwang123/FedLC)
 
 ## 2022 NeurIPS
 
