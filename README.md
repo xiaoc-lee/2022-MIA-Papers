@@ -32,7 +32,8 @@ Medical imaging analysis papers and codes in 2022 computer visio conferences.
 5.[Generalized Brain Image Synthesis with Transferable Convolutional Sparse Coding Networks]()
 
 6.[Self-Supervised Pretraining
-for 2D Medical Image Segmentation](https://github.com/kaland313/SSL-MedSeg)
+for 2D Medical Image Segmentation](https://arxiv.org/pdf/2209.00314.pdf)
+[code](https://github.com/kaland313/SSL-MedSeg)
 
 ## 2022 NeurIPS
 
